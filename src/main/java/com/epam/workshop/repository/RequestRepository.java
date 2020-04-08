@@ -1,11 +1,11 @@
 package com.epam.workshop.repository;
 
-import com.epam.workshop.model.RequestModel;
+import com.epam.workshop.model.Request;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public interface RequestRepository extends JpaRepository<RequestModel, Long> {
+public interface RequestRepository extends JpaRepository<Request, Long> {
 
 
 

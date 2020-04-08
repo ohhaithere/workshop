@@ -10,6 +10,7 @@
     <version>2.1.5.RELEASE</version>
     <relativePath/>
   </parent>
+  <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.epam</groupId>
   <artifactId>workshop</artifactId>

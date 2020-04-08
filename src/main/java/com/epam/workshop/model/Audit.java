@@ -13,7 +13,7 @@ import lombok.NoArgsConstructor;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-public class AuditModel {
+public class Audit {
 
   @Id
   Long requestId;

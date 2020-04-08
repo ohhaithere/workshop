@@ -14,7 +14,7 @@ import lombok.NoArgsConstructor;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-public class RequestModel {
+public class Request {
 
   @Id
   @GeneratedValue(strategy = GenerationType.AUTO)
